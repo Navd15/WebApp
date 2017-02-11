@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="go">Go</string>
+    <string name="enter_address">Search or Type URL</string>
+    <string name="new_tab">New Tab</string>
+    <string name="user_agent">Select User Agent</string>
+    <string name="desktop_site">Desktop Site</string>
+    <string name="android">Android</string>
+    <string name="exit">Exit</string>
+    <string name="datasaver">Data Saver</string>
+    <string name="go_forward">Forwad</string>
+    <string name="var">Refresh</string>
+    <string name="data_saver">Data Saver Mode</string>
+    <string name="title_activity_data_saver_act">Data_saver_act</string>
+    <string name="title_activity_data_saver">Data_saver</string>
+    <string name="data_act_text">Data Saving Mode helps the user to reduce data
+        usage when over mobile network or WiFi.It simply compresses the webpages
+        by using data saving User Agent String.Can help to reduce data cost and in times of data crunch  </string>
+</resources>
